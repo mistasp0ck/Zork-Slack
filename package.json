@@ -1,0 +1,18 @@
+{
+  "name": "zorkslack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "@slack/client": "^3.14.2",
+    "botstrap": "^0.18.16",
+    "os": "^0.1.1",
+    "zorkmid": "^1.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
